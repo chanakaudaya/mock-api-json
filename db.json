@@ -2,14 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
+      "title": "Intro to Choreo",
       "ratings": 5,
       "platform": "medium"
     }
   ],
   "profile": {
-    "name": "typicode",
-    "company":"wso2",
+    "name": "Eric",
+    "company":"WSO2",
     "title":"CTO"
+    "id": 1
   }
 }
