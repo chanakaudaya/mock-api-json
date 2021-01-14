@@ -8,6 +8,8 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "company":"wso2",
+    "title":"CTO"
   }
 }
