@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "ratings": 5,
+      "platform": "medium"
     }
   ],
   "profile": {
