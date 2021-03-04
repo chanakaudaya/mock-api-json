@@ -2,15 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "Intro to Choreo",
+      "title": "Introduction to WSO2 Platform",
       "ratings": 5,
       "platform": "medium"
     }
   ],
   "profile": {
-    "name": "Eric",
+    "name": "Chanaka Fernando",
     "company":"WSO2",
-    "title":"CTO",
+    "title":"Associate Director",
     "id": 1
   }
 }
