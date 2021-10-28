@@ -5,6 +5,18 @@
       "title": "Introduction to WSO2 Platform",
       "ratings": 5,
       "platform": "medium"
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Choreo",
+      "ratings": 4,
+      "platform": "DZone"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Asgardeo",
+      "ratings": 5,
+      "platform": "InfoQ"
     }
   ],
   "profile": {
@@ -12,5 +24,11 @@
     "company":"WSO2",
     "title":"Associate Director",
     "id": 1
+  },
+  {
+    "name": "Kasun Indrasiri",
+    "company":"Microsoft",
+    "title":"Senior Program Manager",
+    "id": 2
   }
 }
