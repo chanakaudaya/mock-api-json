@@ -19,7 +19,8 @@
       "platform": "InfoQ"
     }
   ],
-  "profile": {
+  "profile": [
+    {
     "name": "Chanaka Fernando",
     "company":"WSO2",
     "title":"Associate Director",
@@ -31,4 +32,5 @@
     "title":"Senior Program Manager",
     "id": 2
   }
+  ]
 }
