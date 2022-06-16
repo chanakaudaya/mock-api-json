@@ -32,5 +32,19 @@
     "title":"Senior Program Manager",
     "id": 2
   }
+  ],
+   "performance": [
+    {
+    "name": "XYZ",
+    "ARR":"34.5 M",
+    "Growth":"15.4",
+    "id": 1
+  },
+  {
+    "name": "ABC",
+    "ARR":"3.5 M",
+    "Growth":"55.1",
+    "id": 2
+  }
   ]
 }
