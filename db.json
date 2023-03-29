@@ -1,18 +1,21 @@
 {
   "posts": [
     {
+      "id":1,
       "author": "Chanaka Fernando",
       "title": "Introduction to WSO2 Platform",
       "ratings": 5,
       "platform": "medium"
     },
     {
+      "id":2,
       "author": "Chanaka Fernando",
       "title": "Introduction to Choreo",
       "ratings": 4,
       "platform": "DZone"
     },
     {
+      "id":3,
       "author": "Kasun Indrasiri",
       "title": "Introduction to Asgardeo",
       "ratings": 5,
